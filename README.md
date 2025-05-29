@@ -1,4 +1,3 @@
-Project Title 
 # Mirza Mart Printing Service System #
 
 Purpose: Create a simple website that allows customers to place printing orders at Mirza Mart Printing Service.
