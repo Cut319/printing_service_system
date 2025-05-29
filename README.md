@@ -5,13 +5,13 @@ Purpose: Create a simple website that allows customers to place printing orders 
 Users: Mirza Mart admins and customers
 
 # Key Features #
-# For Customers
+## For Customers
 * User registration and login
 * Browse available printing services
 * Adding order to cart
 * Checkout cart content
 * View order history and status updates
-# For Admins
+## For Admins
 * Admin login
 * Admin simple dashboard
 * View customers
