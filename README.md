@@ -9,7 +9,8 @@ Users: Mirza Mart admins and customers
 For Customers
 * User registration and login
 * Browse available printing services
-* Place new print orders
+* Adding order to cart
+* Checkout cart content
 * View order history and status updates
 For Admins
 * Admin login
@@ -23,3 +24,6 @@ For Admins
 * BackEnd: PHP
 * Database: MySQL
 * Server Environment: Xampp
+
+# Project Presentation and System Demonstration #
+https://youtu.be/l5-B5XkIoeE
